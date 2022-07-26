@@ -1,12 +1,12 @@
 # Cridium Projects
 
-<!-- TODO: Organization introduction -->
+A set of projects made by a group of teenagers, just aim to explore technologies XD
 
 ## Projects
 
 ### Cridium Storage
 
-[Server Repository](https://github.com/Cridium/cridium-server)
+Repositories: [Server](https://github.com/Cridium/cridium-server)
 
 A cloud storage project.  
 
@@ -15,3 +15,6 @@ Server is written with [DeepKit](https://deepkit.io) (Chinese translation/中文
 
 Client is planned.
 
+### Cridium Music
+
+404 Project Not Found.
